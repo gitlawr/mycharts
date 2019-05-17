@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: lawr/example-greenhouse
-  tag: 5
+  repository: lawr/example-helloserver
+  tag: latest
   pullPolicy: IfNotPresent
 
 nameOverride: ""
